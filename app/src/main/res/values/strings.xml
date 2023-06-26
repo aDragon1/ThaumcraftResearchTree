@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Thrum researches</string>
+    <string name="editTextSearchHint">Поиск:</string>
+    <string name="lastClickedItem">Последний нажатый элемент:</string>
+    <string name="category">Категория:</string>
+    <string name="name">Название:</string>
+    <string name="dependencies">Зависимости:</string>
+</resources>
